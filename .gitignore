@@ -1,1 +1,6 @@
+#Ignore everything
+*
+#But not this file
 !Test.txt
+!.gitignore
+
